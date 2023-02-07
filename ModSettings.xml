@@ -13,7 +13,7 @@
     <MaximumRequiredElectricPowerWelding>50</MaximumRequiredElectricPowerWelding>
     <MaximumRequiredElectricPowerGrinding>50</MaximumRequiredElectricPowerGrinding>    
 <WeldingMultiplier>6</WeldingMultiplier>
-    <GrindingMultiplier>6</GrindingMultiplier>
+    <GrindingMultiplier>18</GrindingMultiplier>
     <AllowedSearchModes>Grids BoundingBox</AllowedSearchModes>
     <SearchModeDefault>Grids</SearchModeDefault>
     <AllowBuildFixed>false</AllowBuildFixed>
