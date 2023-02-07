@@ -338,7 +338,7 @@ namespace SpaceEquipmentLtd.NanobotBuildAndRepairSystem
          MaximumRequiredElectricPowerGrinding = NanobotBuildAndRepairSystemBlock.WELDER_REQUIRED_ELECTRIC_POWER_GRINDING_DEFAULT;
 
          WeldingMultiplier = 1f;
-         GrindingMultiplier = 1f;
+         GrindingMultiplier = 15f;
 
          AllowedSearchModes = SearchModes.Grids | SearchModes.BoundingBox;
          SearchModeDefault = SearchModes.Grids;
